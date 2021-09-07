@@ -3,7 +3,7 @@ certifi==2018.1.18
 chardet==3.0.4
 get==0.0.39
 idna==2.6
-Pillow==5.0.0
+Pillow==8.3.2
 post==0.0.26
 public==0.0.65
 query-string==0.0.28
